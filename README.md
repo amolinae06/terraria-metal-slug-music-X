@@ -9,9 +9,6 @@ An improved version of Hitbox's Metal Slug Music Pack for Terraria.
 
 To view all the changes and music used and status check [this spreadsheet](https://docs.google.com/spreadsheets/d/1EOIuPVu7WpU1NMrt1k4krFUgeyKFEAjf0UrMkayotyc/edit?usp=sharing).
 
-### WIP
-- [ ] Replace in-game credits with vocals and resource pack credits.
-
 # Credits
 - Hitbox
 - Tae (Hold You Still! translation and implementation)
